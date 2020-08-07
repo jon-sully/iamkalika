@@ -1,0 +1,5 @@
+source: src
+
+sass:
+  style: compressed
+  sass_dir: assets/sass
