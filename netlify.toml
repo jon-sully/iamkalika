@@ -1,3 +1,8 @@
 [build]
   command = "jekyll build"
   publish = "_site"
+
+[[redirects]]
+  from = "https://i-am-kalika.netlify.app/*"
+  to = "https://iamkalika.com/:splat"
+  force = true
